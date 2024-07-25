@@ -1,0 +1,1 @@
+This is a project built for school that simulates some parts of a medical database. It has the ability to store patients and medications as well as check against a reference file to see if any of the medications might interact with eachother. It then creates an alert for that patient.
